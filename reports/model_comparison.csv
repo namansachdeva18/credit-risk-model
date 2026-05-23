@@ -1,0 +1,5 @@
+Model,ROC-AUC,F1,Recall,Precision,Best
+Logistic Regression,0.7262,0.2473,0.6387,0.1533,
+XGBoost,0.7035,0.1865,0.1605,0.2226,
+LightGBM,0.7051,0.17,0.1307,0.2432,
+Ensemble,0.7051,0.2487,0.4085,0.1787,← USE THIS
