@@ -289,7 +289,7 @@ Python · XGBoost · LightGBM · SMOTE · WoE/IV · SHAP · SQL | GitHub
 ## Author
 
 **Naman Sachdeva**  
-[[LinkedIn URL](https://www.linkedin.com/in/naman-sachdeva18/)] · [GitHub URL] · [namansachdeva.08@gmail.com]
+[[LinkedIn URL](https://www.linkedin.com/in/naman-sachdeva18/)] · [GitHub URL https://github.com/namansachdeva18/credit-risk-model] · [namansachdeva.08@gmail.com]
 
 ---
 
