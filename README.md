@@ -244,32 +244,7 @@ jupyter notebook
 
 **Requirements:** Python 3.11, ~4GB RAM, ~500MB disk space
 
----
 
-## Resume Bullet Points
-
-```
-Credit Risk & Probability of Default Prediction Model
-Python · XGBoost · LightGBM · SMOTE · WoE/IV · SHAP · SQL | GitHub
-
-• Built a credit default classification model on 307K+ loan records (Home Credit, Kaggle)
-  using an XGBoost–LightGBM soft-voting ensemble; applied SMOTE post-split to address a
-  91.9:8.1 class imbalance without data leakage, and engineered 14 domain features including
-  Credit-to-Income Ratio and EXT_SOURCE aggregates via WoE/IV feature selection.
-
-• Achieved ROC-AUC of [X.XX] and F1 of [X.XX] via Optuna hyperparameter tuning; calibrated
-  decision threshold at [0.XX] by minimising a business cost function (FN cost = ₹50K vs
-  FP cost = ₹5K), improving Recall by [X]% over default threshold.
-
-• Deployed SHAP TreeExplainer for global and per-customer explainability; identified
-  EXT_SOURCE scores and CREDIT_INCOME_RATIO as top default drivers; authored a risk
-  stratification report segmenting 61K+ customers into 4 tiers with dynamic credit
-  limit recommendations.
-```
-
-> Replace bracketed values with your actual numbers from notebook 3.
-
----
 
 ## Tech Stack
 
